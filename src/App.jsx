@@ -10,9 +10,13 @@ const [readingTime, setReadingTime]=useState(0);
 const handleBookmark=(blog)=>{
   const newBookmark=[...bookmark, blog];
   setBookmark(newBookmark);
+  const remaining= bookmark.filter(b=>b.id!==blog.id);
+  setBookmark(remaining);
 }
 const handlereadingTime=(time)=>{
   setReadingTime(readingTime+time);
+  
+
 }
 
 
