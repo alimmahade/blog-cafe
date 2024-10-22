@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/cYMVNGD/blog-used-for-f-mobile.png",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "authorImg": "https://example.com/fitzgerald.jpg",
+      "postedDate": "2023-10-15",
+      "readingTime": "3 hours",
+      "hashtags": ["#classic", "#americanliterature"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/cYMVNGD/blog-used-for-f-mobile.png",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "authorImg": "https://example.com/lee.jpg",
+      "postedDate": "2023-11-01",
+      "readingTime": "4 hours",
+      "hashtags": ["#classic", "#socialjustice"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/cYMVNGD/blog-used-for-f-mobile.png",
+      "title": "1984",
+      "author": "George Orwell",
+      "authorImg": "https://example.com/orwell.jpg",
+      "postedDate": "2023-12-10",
+      "readingTime": "5 hours",
+      "hashtags": ["#dystopia", "#politicalfiction"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/cYMVNGD/blog-used-for-f-mobile.png",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "authorImg": "https://example.com/austen.jpg",
+      "postedDate": "2024-01-15",
+      "readingTime": "3 hours",
+      "hashtags": ["#romance", "#classic"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/cYMVNGD/blog-used-for-f-mobile.png",
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "authorImg": "https://example.com/tolkien.jpg",
+      "postedDate": "2024-02-20",
+      "readingTime": "10 hours",
+      "hashtags": ["#fantasy", "#epic"]
+    }
+  ]
